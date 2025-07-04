@@ -8,7 +8,6 @@
 
 ---
 # Ragav1102 | 
-# 
 
 Welcome to my GitHub! 👋  
 I'm a Full Stack Developer who enjoys building and scaling web applications with modern technologies. From backend development to UI/UX design, I’m always learning and experimenting with new tools to create smooth and scalable digital experiences. 🌍
