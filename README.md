@@ -85,24 +85,11 @@ I’m a coffee enthusiast who loves coding while sipping my daily brew! ☕️
 
 ---
 
-## 🔝 Most Contributed Repos
-
-### 1. [Ragav1102/React-Blog](https://github.com/Ragav1102/React-Blog)  
-📝 A blogging platform built with React and Node.js where users can create, edit, and share blog posts.
-
-### 2. [Ragav1102/Node-Express-API](https://github.com/Ragav1102/Node-Express-API)  
-🔧 A RESTful API built with Node.js and Express, implementing user authentication and CRUD operations.
-
-### 3. [Ragav1102/Django-Portfolio](https://github.com/Ragav1102/Django-Portfolio)  
-📂 A personal portfolio website built with Django showcasing projects, blog posts, and more.
-
----
-
 ## 📬 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/ragav1102)
+- [LinkedIn]([https://www.linkedin.com/in/ragav110](https://www.linkedin.com/in/ragavan-r-v-33a0b826a/))
 - [Twitter](https://twitter.com/ragav1102)
 - [Personal Blog](https://ragav1102.dev)
-- [Email](mailto:ragav1102@example.com)
+- [Email](mailto:ragavanrv13@gmail.com)
 
 ---
 
