@@ -6,7 +6,8 @@ I'm a Full Stack Developer who enjoys building and scaling web applications with
 
 ---
 
-## 🧠 About Me   -![ResoviorReservoirGIF](https://github.com/user-attachments/assets/2a7be271-6074-4977-abc6-c4fbb7254e04)                          - **Languages:** JavaScript, Python, Java, C++, TypeScript
+## 🧠 About Me                     
+- **Languages:** JavaScript, Python, Java, C++, TypeScript
 - **Frameworks:** React, Node.js, Express, Next.js, Django                                             
 - **Database:** MongoDB, PostgreSQL, MySQL
 
