@@ -40,8 +40,8 @@ I’m a coffee enthusiast who loves coding while sipping my daily brew! ☕️
 ## 🧰 Tech Stack
 
 ### 💻 Languages & Frameworks:
-- **Languages:** JavaScript (ES6+), Python, Java, C++
-- **Frameworks:** React, Next.js, Node.js, Express, Django
+- **Languages:** JavaScript (ES6+), Python, Java
+- **Frameworks:** React, Next.js, Node.js, Express
 
 ### 🛠️ Tools I Use:
 - **Version Control:** Git, GitHub, GitLab
