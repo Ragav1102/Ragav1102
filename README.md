@@ -6,10 +6,8 @@ I'm a Full Stack Developer who enjoys building and scaling web applications with
 
 ---
 
-## 🧠 About Me                                                                                       
-- **Languages:** JavaScript, Python, Java, C++, TypeScript
-- **Frameworks:** React, Node.js, Express, Next.js, Django                                                   ![ItsTimeGIF (2)](https://github.com/user-attachments/assets/a747a5ff-909e-48a4-8dc5-5281df294b15)
-
+## 🧠 About Me   -![ResoviorReservoirGIF](https://github.com/user-attachments/assets/2a7be271-6074-4977-abc6-c4fbb7254e04)                          - **Languages:** JavaScript, Python, Java, C++, TypeScript
+- **Frameworks:** React, Node.js, Express, Next.js, Django                                             
 - **Database:** MongoDB, PostgreSQL, MySQL
 
 Currently, I am focused on:
