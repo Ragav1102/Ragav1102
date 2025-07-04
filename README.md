@@ -5,6 +5,20 @@
 <h3 align="center">
   <strong>🚀 Full Stack Developer | Passionate About Building Scalable Web Applications 💻</strong>
 </h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Seenivasan-A&style=flat-square&color=blue" alt="Profile views" />
+ <a href="https://drive.google.com/file/d/1Z2BBNESNyeUG9uKRCJR9U50xFsuLXev0/view?usp=sharing" target="_blank" rel="noopener noreferrer" aria-label="Download Resume from Google Drive">
+  <img src="https://img.shields.io/badge/Resume-Download-informational?style=flat-square&logo=readthedocs&color=orange" alt="Resume Download Badge" />
+</a>
+
+  <a href="https://leetcode.com/u/Seenivasan_33/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Progress-yellow?style=flat-square&logo=leetcode" alt="LeetCode Profile" />
+  </a>
+  <a href="https://linktr.ee/SEENIVASAN.A" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-Connect-green?style=flat-square&logo=linktree" alt="Linktree" />
+  </a>
+</p>
+
 
 ---
 # 👉 Ragav1102 👈
@@ -39,17 +53,15 @@ I’m a coffee enthusiast who loves coding while sipping my daily brew! ☕️
 
 ## 🧰 Tech Stack
 
-### 💻 Languages & Frameworks:
-- **Languages:** JavaScript (ES6+), Python, Java
-- **Frameworks:** React, Next.js, Node.js, Express
+### 💻 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,bootstrap,c,java,python" />
+</p>
 
 ### 🛠️ Tools I Use:
-- **Version Control:** Git, GitHub, GitLab
-- **CI/CD:** GitHub Actions, Jenkins
-- **Containers:** Docker, Kubernetes
-- **Database:** MongoDB, PostgreSQL, MySQL
-- **Cloud:** AWS, Google Cloud
-- **Hosting:** Vercel, Netlify, Heroku
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,figma,photoshop,postman,flutterflow" />
+</p>
 
 ---
 
