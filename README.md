@@ -6,10 +6,10 @@ I'm a Full Stack Developer who enjoys building and scaling web applications with
 
 ---
 
-## 🧠 About Me                                                                                        ![Uploading ItsTimeGIF.gif…]()
-
+## 🧠 About Me                                                                                       
 - **Languages:** JavaScript, Python, Java, C++, TypeScript
-- **Frameworks:** React, Node.js, Express, Next.js, Django
+- **Frameworks:** React, Node.js, Express, Next.js, Django                                                   ![ItsTimeGIF (2)](https://github.com/user-attachments/assets/a747a5ff-909e-48a4-8dc5-5281df294b15)
+
 - **Database:** MongoDB, PostgreSQL, MySQL
 
 Currently, I am focused on:
