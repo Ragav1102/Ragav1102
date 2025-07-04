@@ -86,7 +86,7 @@ I’m a coffee enthusiast who loves coding while sipping my daily brew! ☕️
 ---
 
 ## 📬 Connect with Me:
-- [LinkedIn]([https://www.linkedin.com/in/ragav110](https://www.linkedin.com/in/ragavan-r-v-33a0b826a/))
+- [LinkedIn](https://www.linkedin.com/in/ragavan-r-v-33a0b826a/)
 - [Twitter](https://twitter.com/ragav1102)
 - [Personal Blog](https://ragav1102.dev)
 - [Email](mailto:ragavanrv13@gmail.com)
