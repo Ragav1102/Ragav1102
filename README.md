@@ -15,8 +15,8 @@ I'm a Full Stack Developer who enjoys building and scaling web applications with
 ---
 
 ## 🧠 About Me                     
-- **Languages:** JavaScript, Python, Java, 
-- **Frameworks:** React, Node.js, Express, Next.js,                                              
+- **Languages:** JavaScript, Python, Java
+- **Frameworks:** React, Node.js, Express, Next.js                                              
 - **Database:** MongoDB, MySQL
 
 Currently, I am focused on:
