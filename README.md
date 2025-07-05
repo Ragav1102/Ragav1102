@@ -14,7 +14,7 @@
   <a href="https://leetcode.com/u/rraja859887/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Progress-yellow?style=flat-square&logo=leetcode" alt="LeetCode Profile" />
   </a>
-  <a href="https://linktr.ee/SEENIVASAN.A" target="_blank">
+  <a href="https://linktr.ee/Ragavan_R_V" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-Connect-green?style=flat-square&logo=linktree" alt="Linktree" />
   </a>
 </p>
