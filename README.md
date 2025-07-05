@@ -81,7 +81,7 @@ I’m a coffee enthusiast who loves coding while sipping my daily brew! ☕️
 ![Ragav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ragav1102&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ### 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ragav1102)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ragav1102&theme=gruvbox&no-bg=true&margin-w=15)
 
 ---
 
