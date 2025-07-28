@@ -55,12 +55,12 @@ I’m a coffee enthusiast who loves coding while sipping my daily brew! ☕️
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,bootstrap,c,java,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,bootstrap,c,java,python,springboot" />
 </p>
 
 ### 🛠️ Tools I Use:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,figma,photoshop,postman,flutterflow,springboot" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,figma,photoshop,postman,flutterflow" />
 </p>
 
 ---
