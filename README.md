@@ -55,7 +55,7 @@ I’m a coffee enthusiast who loves coding while sipping my daily brew! ☕️
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,bootstrap,c,java,python,springboot" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,bootstrap,c,java,python,spring" />
 </p>
 
 ### 🛠️ Tools I Use:
