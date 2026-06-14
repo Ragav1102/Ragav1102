@@ -124,12 +124,6 @@ I enjoy transforming raw data into meaningful insights while sipping my daily co
 
 ---
 
-## 📊 Power BI Dashboard
-
-<p align="center">
-  <img src="Online sales Dashboard.png" alt="Power BI Dashboard" width="900">
-</p>
-
 ### Dashboard Highlights
 
 ✅ Revenue Analysis
