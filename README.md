@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <strong>🚀 Full Stack Developer | Passionate About Building Scalable Web Applications 💻</strong>
+  <strong>🚀 Full Stack Developer | 📊 Aspiring Data Analyst | Passionate About Building Scalable Applications 💻</strong>
 </h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ragav1102&style=flat-square&color=blue" alt="Profile views" />
