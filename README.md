@@ -44,7 +44,6 @@ From backend development to UI/UX design and business intelligence reporting, I'
 
 Currently, I am focused on:
 
-- 🚀 Building Full Stack Applications with React & Node.js
 - 📊 Data Analysis using Python & Pandas
 - 📈 Dashboard Development with Power BI
 - 🏥 Developing Hospital Management Systems
@@ -75,14 +74,6 @@ I enjoy transforming raw data into meaningful insights while sipping my daily co
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,c,java,python,spring" />
 </p>
 
-### 📊 Data Analytics Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-Data_Analysis-green?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/NumPy-Numerical_Computing-blue?style=for-the-badge&logo=numpy" />
-  <img src="https://img.shields.io/badge/Power_BI-Dashboarding-yellow?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/Excel-Data_Visualization-success?style=for-the-badge&logo=microsoft-excel" />
-</p>
 
 ### 🛠️ Tools I Use
 
@@ -136,7 +127,7 @@ I enjoy transforming raw data into meaningful insights while sipping my daily co
 ## 📊 Power BI Dashboard
 
 <p align="center">
-  <img src="images/dashboard.png" alt="Power BI Dashboard" width="900">
+  <img src="Online sales Dashboard.png" alt="Power BI Dashboard" width="900">
 </p>
 
 ### Dashboard Highlights
