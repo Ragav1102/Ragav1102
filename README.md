@@ -34,7 +34,6 @@ I'm a Full Stack Developer who enjoys building and scaling web applications with
 - **Database:** MongoDB, MySQL
 
 Currently, I am focused on:
-- 🚀 Building robust backend services with Node.js and Express
 - 🎨 Crafting delightful frontend experiences with React and Next.js
 - 🔐 Working with authentication systems and building scalable APIs
 - 🌱 Learning Kubernetes and Docker for containerization and orchestration
